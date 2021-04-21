@@ -1,0 +1,4 @@
+- Hi, I’m @HoustonKoester
+- This is a very new github mainly used for CodeAcademy challenges, but some of my prior class work is on here as well.
+- I’m currently learning machine learning with python and also full stack development through CodeAcademy while working on various other projects
+- How to reach me, I'm always available at houstonkoester@aol.com!
